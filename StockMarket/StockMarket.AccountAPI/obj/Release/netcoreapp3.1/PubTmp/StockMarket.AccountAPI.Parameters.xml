@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="myaccountapi85" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\IIHT\\Client-1\\Batch2\\PHASE3\\StockMarket\\StockMarket\.AccountAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

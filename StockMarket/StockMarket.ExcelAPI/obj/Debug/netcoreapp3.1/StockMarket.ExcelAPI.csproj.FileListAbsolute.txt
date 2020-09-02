@@ -1,0 +1,67 @@
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.exe
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.deps.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.runtimeconfig.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.runtimeconfig.dev.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.pdb
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.csprojAssemblyReference.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.AssemblyInfoInputs.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.AssemblyInfo.cs
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.csproj.CoreCompileInputs.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.RazorTargetAssemblyInfo.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.ExcelAPI.StaticWebAssets.Manifest.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.ExcelAPI.StaticWebAssets.xml
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.pdb
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.genruntimeconfig.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.exe
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.deps.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.runtimeconfig.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.runtimeconfig.dev.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\StockMarket.ExcelAPI.pdb
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.csprojAssemblyReference.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.AssemblyInfoInputs.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.AssemblyInfo.cs
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.RazorTargetAssemblyInfo.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.ExcelAPI.StaticWebAssets.Manifest.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.ExcelAPI.StaticWebAssets.xml
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.pdb
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.genruntimeconfig.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.csproj.CopyComplete
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.csproj.CoreCompileInputs.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.ExcelAPI\obj\Debug\netcoreapp3.1\StockMarket.ExcelAPI.MvcApplicationPartsAssemblyInfo.cache

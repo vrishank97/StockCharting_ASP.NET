@@ -1,0 +1,66 @@
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\ocelot.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.exe
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csprojAssemblyReference.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.AssemblyInfoInputs.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.AssemblyInfo.cs
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.RazorTargetAssemblyInfo.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.GateWay.StaticWebAssets.Manifest.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.GateWay.StaticWebAssets.xml
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.deps.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.runtimeconfig.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.runtimeconfig.dev.json
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.pdb
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csproj.CoreCompileInputs.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csproj.CopyComplete
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.dll
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.pdb
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.genruntimeconfig.cache
+D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\mygateway85 - Web Deploy\profile.arm.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\mygateway85 - Web Deploy\profile.arm.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.exe
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.deps.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.runtimeconfig.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.runtimeconfig.dev.json
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\StockMarket.GateWay.pdb
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csprojAssemblyReference.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.AssemblyInfoInputs.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.AssemblyInfo.cs
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csproj.CoreCompileInputs.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.RazorTargetAssemblyInfo.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.csproj.CopyComplete
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.GateWay.StaticWebAssets.Manifest.cache
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.GateWay.StaticWebAssets.xml
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.dll
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.pdb
+C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.GateWay\obj\Debug\netcoreapp3.1\StockMarket.GateWay.genruntimeconfig.cache
