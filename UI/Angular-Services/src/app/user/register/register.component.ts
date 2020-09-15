@@ -29,6 +29,7 @@ export class RegisterComponent implements OnInit {
 
     this.service.register(this.user).subscribe(res=>{
       console.log(res)
+      this.router.navigateByUrl('login');
     })
   }
 
