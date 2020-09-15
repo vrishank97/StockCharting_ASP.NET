@@ -1,0 +1,25 @@
+<div class="container-fluid md-12">
+    <div class="column md-6">
+        <h1>Please Sign Up</h1>
+        <div style="margin: 10px;">
+            <h5>Username</h5>
+            <input class="form-control" #uname type="text">
+        </div>
+        <div style="margin: 10px;">
+            <h5>Password</h5>
+            <input class="form-control" #pass type="password">
+        </div>
+        <div style="margin: 10px;">
+            <h5>Email</h5>
+            <input class="form-control" #mail type="email">
+        </div>
+        <div style="margin: 10px;">
+            <h5>Mobile</h5>
+            <input class="form-control" #num type="tel">
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <button class="btn btn-primary" (click)="onClick(uname.value, pass.value, mail.value, num.value)">Sign Up</button>
+            <h1>token is {{greeting}} bad</h1>
+        </div>
+    </div>
+</div>

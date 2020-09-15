@@ -6,7 +6,7 @@
 			"DownstreamHostAndPorts": [
 				{
 					"Host": "localhost",
-					"Port": 62415
+					"Port": 7001
 				}
 			],
 			"UpstreamPathTemplate": "/Account/{url}"
@@ -18,7 +18,7 @@
 				{
 					
 					"Host": "localhost",
-					"Port": 62422
+					"Port": 7002
 				}
 			],
 			"UpstreamPathTemplate": "/Admin/{url}"
@@ -29,7 +29,7 @@
 			"DownstreamHostAndPorts": [
 				{
 					"Host": "localhost",
-					"Port": 62421
+					"Port": 7003
 				}
 			],
 			"UpstreamPathTemplate": "/User/{url}"
@@ -41,7 +41,7 @@
 			"DownstreamHostAndPorts": [
 				{
 					"Host": "localhost",
-					"Port": 62425
+					"Port": 7004
 				}
 			],
 			"UpstreamPathTemplate": "/Excel/{}"
@@ -50,6 +50,6 @@
 
 	],
 	"GlobalConfiguration": {
-		"BaseUrl": "http://localhost:5000/"
+		"BaseUrl": "http://localhost:8081/"
 	}
 }

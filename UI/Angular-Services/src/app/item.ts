@@ -3,4 +3,5 @@ export class Item {
   CompanyName:string;
   Turnover:string;
   CEO:string;
+  stockPrices:null;
 }

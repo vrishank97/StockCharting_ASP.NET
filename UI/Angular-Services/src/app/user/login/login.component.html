@@ -1,0 +1,15 @@
+<div class="container-fluid md-12">
+    <div class="column md-6">
+        <h1>Please Login</h1>
+        <div>
+            <h5>Username</h5>
+            <input class="form-control" #uname type="text">
+        </div>
+        <div>
+            <h5>Password</h5>
+            <input class="form-control" #pass type="password">
+        </div>
+        <button class="btn btn-primary" (click)="onClick(uname.value, pass.value)">Login</button>
+        <h1>token is {{greeting}} bad</h1>
+    </div>
+</div>

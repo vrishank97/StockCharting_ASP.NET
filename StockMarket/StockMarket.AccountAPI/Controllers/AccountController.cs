@@ -6,6 +6,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
@@ -29,11 +30,20 @@ namespace StockMarket.AccountAPI.Controllers
             this.service = service;
             this.configuration = configuration;
         }
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult Get()
         {
             return Ok("Account Service");
         }
+        [AllowAnonymous]
+        [HttpGet]
+        [Route("Status")]
+        public IActionResult IsUp()
+        {
+            return Ok("Account Service");
+        }
+
         [AllowAnonymous]
         [HttpGet]
         [Route("Validate/{uname}/{pwd}")]
@@ -57,7 +67,7 @@ namespace StockMarket.AccountAPI.Controllers
             }
         }
 
-
+        [AllowAnonymous]
         [HttpPost]
         [Route("AddUser")]
         public IActionResult AddUser(User item)

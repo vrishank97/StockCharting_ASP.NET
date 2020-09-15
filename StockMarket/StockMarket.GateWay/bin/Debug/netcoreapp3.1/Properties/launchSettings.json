@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:57796",
+      "applicationUrl": "http://localhost:8080",
       "sslPort": 0
     }
   },
@@ -20,11 +20,11 @@
     "StockMarket.GateWay": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "account/status",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5000"
+      "applicationUrl": "http://localhost:8080"
     },
     "Azure": {
       "commandName": "IISExpress",

@@ -57,25 +57,11 @@ namespace StockMarket.ExcelAPI.Controllers
 
                     {
 
-                        CompanyCode = workSheet.Cells[i, 1].Value.ToString().Trim(),
-
-                        StockExchange = workSheet.Cells[i, 2].Value.ToString().Trim(),
-
-                        CurrentPrice = double.Parse(workSheet.Cells[i, 3].Value.ToString().Trim()),
-
-                        Date = DateTime.Parse(workSheet.Cells[i, 4].Value.ToString().Trim()),
-
-                        Time = workSheet.Cells[i, 5].Value.ToString(),
+                        CompanyCode = workSheet.Cells[i, 1].Value.ToString().Trim()
 
                     });
 
                 }
-
-
-
-                _db.StockPrice.AddRange(stockPrices);
-
-                _db.SaveChanges();
 
 
 

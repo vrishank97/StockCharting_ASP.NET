@@ -3,6 +3,9 @@ import { HttpClient,HttpHeaders } from "@angular/common/http";
 import { Observable } from "Rxjs";
 import { Item } from '../item';
 import { JsonPipe } from '@angular/common';
+import { environment } from 'src/environments/environment';
+
+
 const Requestheaders={headers:new HttpHeaders({
   'Content-Type': 'application/json',
   'Authorization': 'Bearer '+localStorage.getItem('token')
@@ -11,7 +14,7 @@ const Requestheaders={headers:new HttpHeaders({
   providedIn: 'root'
 })
 export class ItemService {
-url:string='http://localhost:8080/Admin/'
+url:string= environment.gatewayURI + '/Admin/'
   constructor(private http:HttpClient) { }
   public GetAll():Observable<Item[]>
   {
@@ -30,7 +33,7 @@ url:string='http://localhost:8080/Admin/'
     return this.http.put<any>(this.url+'Companies/Update',JSON.stringify(item),Requestheaders);
   }public DeleteItem(id:string):Observable<any>
   {
-    return this.http.delete<Item>(this.url+'Companies/Delete/'+id,Requestheaders)
+    return this.http.delete(this.url+'Companies/Delete/'+id,Requestheaders)
   }
 
 

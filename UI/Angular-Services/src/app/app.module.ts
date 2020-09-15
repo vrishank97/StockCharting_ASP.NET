@@ -1,24 +1,28 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule} from "@angular/common/http";
-
+import { FormsModule } from '@angular/forms'
 import {ReactiveFormsModule} from "@angular/forms";
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ViewitemComponent } from './viewitem/viewitem.component';
 import { CalculateService } from './services/calculate.service';
-import { TestComponent } from './test/test.component';
-import { DemoComponent } from './demo/demo.component';
 import { ItemService } from './services/item.service';
-import { LoginComponent } from './login/login.component';
+import { UserComponent } from './user/user.component';
+import { LoginComponent } from './user/login/login.component';
+import { HomeComponent } from './home/home.component';
+import { RegisterComponent } from './user/register/register.component';
+import { CompaniesComponent } from './home/companies/companies.component';
+import { IposComponent } from './home/ipos/ipos.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ViewitemComponent,
-    TestComponent,
-    DemoComponent,
-    LoginComponent
+    LoginComponent,
+    UserComponent,
+    HomeComponent,
+    RegisterComponent,
+    CompaniesComponent,
+    IposComponent
   ],
   imports: [
     BrowserModule,
@@ -27,6 +31,6 @@ import { LoginComponent } from './login/login.component';
     HttpClientModule
   ],
   providers: [CalculateService,ItemService],
-  bootstrap: [LoginComponent]
+  bootstrap: [UserComponent]
 })
 export class AppModule { }

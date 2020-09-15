@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="microservices">
+  <MonoDevelop.Ide.ItemProperties.StockMarket.UserAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.StockMarket.GateWay PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.StockMarket.AccountAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockMarket.AccountAPI/Properties/launchSettings.json">
+    <Files>
+      <File FileName="StockMarket.GateWay/ocelot.json" Line="53" Column="36" />
+      <File FileName="StockMarket.GateWay/Properties/launchSettings.json" />
+      <File FileName="StockMarket.UserAPI/Controllers/UserController.cs" />
+      <File FileName="StockMarket.AccountAPI/Controllers/AccountController.cs" />
+      <File FileName="StockMarket.AccountAPI/Startup.cs" />
+      <File FileName="StockMarket.GateWay/Startup.cs" />
+      <File FileName="StockMarket.AdminAPI/Controllers/AdminController.cs" />
+      <File FileName="StockMarket.AdminAPI/Models/Company.cs" />
+      <File FileName="StockMarket.AccountAPI/Models/Token.cs" />
+      <File FileName="StockMarket.AccountAPI/Models/User.cs" />
+      <File FileName="StockMarket.AccountAPI/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockMarket" expanded="True">
+            <Node name="StockMarket.AccountAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DBAccess" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+            <Node name="StockMarket.AdminAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="StockMarket.ExcelAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="StockMarket.GateWay" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="StockMarket.UserAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StockMarket.AdminAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="microservices" Name="microservices">
+      <Items>
+        <StartupItem ItemId="{37C91FE7-2561-4EB5-9A4F-48E5FCD6E908}" ItemName="StockMarket.AccountAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{A912549C-CFC9-421B-B052-DDDAB46C6454}" ItemName="StockMarket.AdminAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{345A478A-343F-4093-93C7-40473D7D0503}" ItemName="StockMarket.GateWay" ConfigurationId="Default" />
+        <StartupItem ItemId="{D6F059B5-5DB2-4F85-B6FB-22403D178C01}" ItemName="StockMarket.UserAPI" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

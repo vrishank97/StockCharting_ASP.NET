@@ -1,79 +1,138 @@
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\appsettings.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.exe
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.deps.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.runtimeconfig.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.runtimeconfig.dev.json
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.dll
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.pdb
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.csprojAssemblyReference.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfoInputs.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfo.cs
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.csproj.CoreCompileInputs.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.RazorTargetAssemblyInfo.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.UserAPI.StaticWebAssets.Manifest.cache
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.UserAPI.StaticWebAssets.xml
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.dll
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.pdb
-D:\IIHT\Client-1\Batch2\PHASE3\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.genruntimeconfig.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.exe
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.deps.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.runtimeconfig.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.runtimeconfig.dev.json
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\StockMarket.UserAPI.pdb
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfoInputs.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfo.cs
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.csproj.CoreCompileInputs.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.RazorTargetAssemblyInfo.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.csproj.CopyComplete
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.UserAPI.StaticWebAssets.Manifest.cache
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.UserAPI.StaticWebAssets.xml
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.dll
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.pdb
-C:\Users\socgend23\Desktop\New folder\StockMarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.genruntimeconfig.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.exe
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.deps.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.dev.json
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csprojAssemblyReference.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfoInputs.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfo.cs
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csproj.CoreCompileInputs.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.RazorTargetAssemblyInfo.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.Manifest.cache
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.xml
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+D:/IIHT/Client-1/Batch2/PHASE3/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.genruntimeconfig.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.exe
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.deps.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.dev.json
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfoInputs.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfo.cs
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csproj.CoreCompileInputs.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.RazorTargetAssemblyInfo.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csproj.CopyComplete
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.Manifest.cache
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.xml
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+C:/Users/socgend23/Desktop/New folder/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.genruntimeconfig.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.deps.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.runtimeconfig.dev.json
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csprojAssemblyReference.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfoInputs.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.AssemblyInfo.cs
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csproj.CoreCompileInputs.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.RazorTargetAssemblyInfo.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.csproj.CopyComplete
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.Manifest.cache
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/staticwebassets/StockMarket.UserAPI.StaticWebAssets.xml
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.dll
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.pdb
+/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.UserAPI/obj/Debug/netcoreapp3.1/StockMarket.UserAPI.genruntimeconfig.cache

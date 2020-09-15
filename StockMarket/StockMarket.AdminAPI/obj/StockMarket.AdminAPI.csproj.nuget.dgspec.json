@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\socgend23\\Desktop\\New folder\\StockMarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj": {}
+    "/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.AdminAPI/StockMarket.AdminAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\socgend23\\Desktop\\New folder\\StockMarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj": {
+    "/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.AdminAPI/StockMarket.AdminAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\socgend23\\Desktop\\New folder\\StockMarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj",
+        "projectUniqueName": "/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.AdminAPI/StockMarket.AdminAPI.csproj",
         "projectName": "StockMarket.AdminAPI",
-        "projectPath": "C:\\Users\\socgend23\\Desktop\\New folder\\StockMarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj",
-        "packagesPath": "C:\\Users\\socgend23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\socgend23\\Desktop\\New folder\\StockMarket\\StockMarket.AdminAPI\\obj\\",
+        "projectPath": "/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.AdminAPI/StockMarket.AdminAPI.csproj",
+        "packagesPath": "/Users/vrishank/.nuget/packages/",
+        "outputPath": "/Users/vrishank/Desktop/StockCharting_ASP.NET/StockMarket/StockMarket.AdminAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\socgend23\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/vrishank/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +39,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -69,12 +67,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -83,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }

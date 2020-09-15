@@ -17,7 +17,7 @@ namespace StockMarket.AccountAPI.DBAccess
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //optionsBuilder.UseSqlServer(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=StockMarketDB;User ID=sa;Password=pass@word1");
-            optionsBuilder.UseSqlServer(@"Server=localhost;Initial Catalog=StockMarket2;User ID=sa;Password=pass@word1;");
+            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Initial Catalog=StockMarket2;User ID=sa;Password=pass@word1;");
         }
     }
 }
