@@ -1,7 +1,44 @@
-<div style="text-align: center; margin-top: 20px;">
-    <nav>
-        <a class="btn btn-primary" style="margin: 10px;" routerLink="companies">Companies</a>
-        <a class="btn btn-primary" style="margin: 10px;" routerLink="ipos">IPOS</a>
-    </nav>
-</div>
-<router-outlet></router-outlet>
+<div class="row">
+    <div class="column" style="width: 40%; margin: 5%;">
+      <div class="card">
+        <div class="card-body">
+          <div style="margin: 10px;">
+            <h5 style="text-align: center;">Company Name</h5>
+            <input class="form-control" #cname type="text">
+          </div>
+          <div style="text-align: center;">
+            <button class="btn btn-primary" (click)="onClick(cname.value)">Find Company</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column" style="width: 40%; margin:5%">
+      <div class="card">
+        <div class="card-body">
+          <div style="margin: 10px;">
+            <h5 style="text-align: center;">IPO Name</h5>
+            <input class="form-control" #iponame type="text">
+          </div>
+          <div style="text-align: center;">
+            <button class="btn btn-primary" (click)="onClickIPO(iponame.value)">Find IPO</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="container">
+      <table class="table table-bordered">
+    <tr>
+      <th>CompanyCode</th>
+      <th>CompanyName</th>
+      <th>Turnover</th>
+      <th>CEO</th>
+    </tr>
+    <tr *ngFor="let res of list">
+      <td>{{res.companyCode}}</td>
+      <td>{{res.companyName}}</td>
+      <td>{{res.turnover}}</td>
+      <td>{{res.ceo}}</td>
+    </tr>
+      </table>
+    </div>

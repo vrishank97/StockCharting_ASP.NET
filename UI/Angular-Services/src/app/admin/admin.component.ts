@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
-import { Item } from 'src/app/item';
+import { Item } from '../item';
 import { FormBuilder, FormGroup } from '@angular/forms';
-import { ItemService } from 'src/app/services/item.service';
+import { ItemService } from '../services/item.service';
 
 @Component({
-  selector: 'app-companies',
-  templateUrl: './companies.component.html',
-  styleUrls: ['./companies.component.css']
+  selector: 'app-admin',
+  templateUrl: './admin.component.html',
+  styleUrls: ['./admin.component.css']
 })
-export class CompaniesComponent implements OnInit {
+export class AdminComponent implements OnInit {
 
   itemForm:FormGroup;
   submitted=false;
@@ -91,4 +91,5 @@ Delete()
     console.log(err);
   })
 }
+
 }

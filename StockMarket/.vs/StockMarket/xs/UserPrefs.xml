@@ -2,19 +2,22 @@
   <MonoDevelop.Ide.ItemProperties.StockMarket.UserAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.StockMarket.GateWay PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.StockMarket.AccountAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StockMarket.AccountAPI/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockMarket.AccountAPI/Models/IPODetails.cs">
     <Files>
-      <File FileName="StockMarket.GateWay/ocelot.json" Line="53" Column="36" />
+      <File FileName="StockMarket.AccountAPI/Controllers/AccountController.cs" Line="43" Column="10" />
       <File FileName="StockMarket.GateWay/Properties/launchSettings.json" />
       <File FileName="StockMarket.UserAPI/Controllers/UserController.cs" />
-      <File FileName="StockMarket.AccountAPI/Controllers/AccountController.cs" />
-      <File FileName="StockMarket.AccountAPI/Startup.cs" />
+      <File FileName="StockMarket.AccountAPI/Startup.cs" Line="24" Column="6" />
       <File FileName="StockMarket.GateWay/Startup.cs" />
       <File FileName="StockMarket.AdminAPI/Controllers/AdminController.cs" />
       <File FileName="StockMarket.AdminAPI/Models/Company.cs" />
       <File FileName="StockMarket.AccountAPI/Models/Token.cs" />
-      <File FileName="StockMarket.AccountAPI/Models/User.cs" />
+      <File FileName="StockMarket.AccountAPI/Models/User.cs" Line="1" Column="1" />
       <File FileName="StockMarket.AccountAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="StockMarket.AccountAPI/Services/AccountService.cs" Line="1" Column="1" />
+      <File FileName="StockMarket.AccountAPI/Services/IAccountService.cs" Line="1" Column="1" />
+      <File FileName="StockMarket.AccountAPI/Repositories/AccountRepository.cs" Line="47" Column="102" />
+      <File FileName="StockMarket.AccountAPI/Models/IPODetails.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,10 +27,12 @@
               <Node name="Controllers" expanded="True" />
               <Node name="DBAccess" expanded="True" />
               <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="IPODetails.cs" selected="True" />
               </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
             <Node name="StockMarket.AdminAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
