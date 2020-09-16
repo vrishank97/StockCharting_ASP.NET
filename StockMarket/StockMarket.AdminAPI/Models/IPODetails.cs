@@ -11,7 +11,7 @@ namespace StockMarket.AdminAPI.Models
     public class IPODetails
     {
         [Key]
-        public int IPOId { get; set; }
+        public string IPOId { get; set; }
         [ForeignKey("Company")]
         [Required]
         [StringLength(15)]
@@ -20,9 +20,9 @@ namespace StockMarket.AdminAPI.Models
         [StringLength(15)]
         public string StockExchange { get; set; }
         [Required]
-        public double SharePrice { get; set; }
+        public string SharePrice { get; set; }
         [Required]
-        public long Shares { get; set; }
+        public string Shares { get; set; }
         [Required]
         [Column(TypeName = "Date")]
         public DateTime Datetime { get; set; }

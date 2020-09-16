@@ -20,15 +20,23 @@ url:string= environment.gatewayURI + '/Admin/'
   {
     return this.http.get<Item[]>(this.url+'Companies/All',Requestheaders)
   }
+  public GetAllIPOS():Observable<Item[]>
+  {
+    return this.http.get<Item[]>(this.url+'Companies/All',Requestheaders)
+  }
   public GetById(id:string):Observable<Item>
   {
     return this.http.get<Item>(this.url+'Companies/'+id,Requestheaders)
   }
   public GetIPOById(id:string):Observable<Item>
   {
-    return this.http.get<Item>(this.url+'IPO/'+id,Requestheaders)
+    return this.http.get<IPO>(this.url+'IPO/'+id,Requestheaders)
   }
   public AddItem(item:Item):Observable<any>
+  {
+    return this.http.post(this.url+'Companies/Add',JSON.stringify(item),Requestheaders);
+  }
+  public AddItemIPO(item:Item):Observable<any>
   {
     return this.http.post(this.url+'Companies/Add',JSON.stringify(item),Requestheaders);
   }
